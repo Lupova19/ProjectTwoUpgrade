@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Project2Update\BooksInTheLibrary\bin\Debug\BooksInTheLibrary.exe.config
+C:\Users\Admin\Desktop\Lupova19\Project2Update\BooksInTheLibrary\bin\Debug\BooksInTheLibrary.exe
+C:\Users\Admin\Desktop\Lupova19\Project2Update\BooksInTheLibrary\bin\Debug\BooksInTheLibrary.pdb
+C:\Users\Admin\Desktop\Lupova19\Project2Update\BooksInTheLibrary\obj\Debug\BooksInTheLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Project2Update\BooksInTheLibrary\obj\Debug\BooksInTheLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Project2Update\BooksInTheLibrary\obj\Debug\BooksInTheLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Project2Update\BooksInTheLibrary\obj\Debug\BooksInTheLibrary.exe
+C:\Users\Admin\Desktop\Lupova19\Project2Update\BooksInTheLibrary\obj\Debug\BooksInTheLibrary.pdb
